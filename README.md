@@ -1,6 +1,6 @@
 This is a python project which is based on calculator:
 
-**you can do:-**
+**you can do:-**<br>
 1.addition
 2.subtraction
 3.multiplication
