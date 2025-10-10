@@ -16,4 +16,4 @@ AND ALSO THE OUTPUT WILL BE THE EFFICIENT ANSWER FOR YOUR PROBLEM
 THE OUTPUT OF THE CALCULATOR IS SHOWN BELOW:
 
 
-https://github.com/Anurag01082007/project1/blob/main/Screenshot%202025-10-10%20140719.png?raw=true
+[output](https://github.com/Anurag01082007/project1/blob/main/Screenshot%202025-10-10%20140719.png)
